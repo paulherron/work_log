@@ -1,0 +1,3 @@
+#!/bin/sh
+
+awk -f ~/bin/work_log.awk *_log.txt
