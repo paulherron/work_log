@@ -1,3 +1,9 @@
 #!/bin/sh
 
-awk -f ~/bin/work_log.awk *_log.txt
+logFile=${1:-*_log.txt}
+
+if [[ ! $(ls $logFile) ]]; then
+	logFile=../*_log.txt
+fi
+
+awk -f ~/bin/work_log.awk $logFile
