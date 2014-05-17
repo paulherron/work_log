@@ -54,12 +54,14 @@ When you run the script it'll parse the log file and output a summary of times s
 
 	Total for this day is 120  minutes (2 hours)
 
+
 	---------- 2014-05-17 --------------------------|
 
 	Do mockup of new contact page. [120]
 	 +  120
 
 	Total for this day is 120  minutes (2 hours)
+
 
 	-- end --
 
