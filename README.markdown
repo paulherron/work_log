@@ -64,3 +64,11 @@ When you run the script it'll parse the log file and output a summary of times s
 	-- end --
 
 	Grand total is 240  minutes (4 hours)
+
+You'd run the script by doing something like:
+
+	work_log ~/Path/to/myproject_log.txt
+
+Or if your work log is within the current directory (or its parent directory) you can just do:
+
+	work_log
