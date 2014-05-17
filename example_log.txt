@@ -1,0 +1,15 @@
+---------- 2014-05-16 --------------------------|
+
+Fix database crash when searching with special characters. [30]
+Add new navigation to website header. [70]
+Do offsite backups. [20]
+
+
+---------- 2014-05-17 --------------------------|
+
+Do mockup of new contact page. [120]
+
+
+-- end --
+
+put to-do items or other notes here - nothing beyond the line above will get processed
