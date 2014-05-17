@@ -3,6 +3,17 @@ Work Log
 
 A script to help with logging work tasks and the time spent on them.
 
+Installation
+------------
+
+	git clone https://github.com/paulherron/work_log.git
+	cd work_log
+	./work_log
+
+That will parse the example log that's included in the repo, `example_log.txt`.
+
+You could also move or symlink the `work_log` and `work_log.awk` files into a location you prefer, e.g. your `~/bin` directory if you have one. As long as the path to that directory is exported you should be able to use the script from anywhere.
+
 
 Usage
 -----
